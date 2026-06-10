@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sample-yamada",
+    "name": "山田さん",
+    "status": "out",
+    "note": "実験中",
+    "updatedAt": "2026-06-09T08:44:37.622Z"
+  },
+  {
+    "id": "sample-sato",
+    "name": "佐藤さん",
+    "status": "lab",
+    "note": "図書館",
+    "updatedAt": "2026-06-09T08:44:36.165Z"
+  },
+  {
+    "id": "sample-suzuki",
+    "name": "鈴木さん",
+    "status": "out",
+    "note": "出張",
+    "updatedAt": "2026-06-09T08:00:00.000Z"
+  }
+]
